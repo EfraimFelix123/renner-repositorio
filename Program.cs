@@ -1038,6 +1038,7 @@ rescolher:
           case 1: escolha = 1;
           Console.WriteLine("Você obdeceu a sua mãe e foi estudar.");
           Quarto Quarto = new Quarto();
+          Console.ReadKey();
          Quarto.quarto();
           break;
 
@@ -1049,6 +1050,7 @@ rescolher:
             "Com isso, ele conseguiu hackear a sua localização e, por ser Russo, emitiu uma bomba à sua residência.",
             "E você morreu.",
             "Moral da história: Obedeça a sua mãe...",
+             "Renner!",
            
             
         };
@@ -1145,7 +1147,7 @@ Console.WriteLine( "Lá você percebe que só tem tomate e alho. As baratas come
         comida.Tomate("tomate");
     } else
     {
-        Console.WriteLine("Digite uma opção válida!");
+        Console.WriteLine("Digite uma opção válida! renner.");
     }
     }
 }

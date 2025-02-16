@@ -40,3 +40,4 @@ C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\obj\Debug\net8.0\refint\Efrai
 C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\obj\Debug\net8.0\Efraim – programação.pdb
 C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\obj\Debug\net8.0\Efraim – programação.genruntimeconfig.cache
 C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\obj\Debug\net8.0\ref\Efraim – programação.dll
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\obj\Debug\net8.0\Efraim – programação.sourcelink.json
