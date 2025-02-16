@@ -1,0 +1,42 @@
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Efraim – programação\bin\Debug\net8.0\Efraim – programação.exe
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Efraim – programação\bin\Debug\net8.0\Efraim – programação.deps.json
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Efraim – programação\bin\Debug\net8.0\Efraim – programação.runtimeconfig.json
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Efraim – programação\bin\Debug\net8.0\Efraim – programação.dll
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Efraim – programação\bin\Debug\net8.0\Efraim – programação.pdb
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Efraim – programação\obj\Debug\net8.0\Efraim – programação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Efraim – programação\obj\Debug\net8.0\Efraim – programação.AssemblyInfoInputs.cache
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Efraim – programação\obj\Debug\net8.0\Efraim – programação.AssemblyInfo.cs
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Efraim – programação\obj\Debug\net8.0\Efraim – programação.csproj.CoreCompileInputs.cache
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Efraim – programação\obj\Debug\net8.0\Efraim – programação.dll
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Efraim – programação\obj\Debug\net8.0\refint\Efraim – programação.dll
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Efraim – programação\obj\Debug\net8.0\Efraim – programação.pdb
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Efraim – programação\obj\Debug\net8.0\Efraim – programação.genruntimeconfig.cache
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Efraim – programação\obj\Debug\net8.0\ref\Efraim – programação.dll
+C:\Users\efrai\Downloads\Efraim – programação\bin\Debug\net8.0\Efraim – programação.exe
+C:\Users\efrai\Downloads\Efraim – programação\bin\Debug\net8.0\Efraim – programação.deps.json
+C:\Users\efrai\Downloads\Efraim – programação\bin\Debug\net8.0\Efraim – programação.runtimeconfig.json
+C:\Users\efrai\Downloads\Efraim – programação\bin\Debug\net8.0\Efraim – programação.dll
+C:\Users\efrai\Downloads\Efraim – programação\bin\Debug\net8.0\Efraim – programação.pdb
+C:\Users\efrai\Downloads\Efraim – programação\obj\Debug\net8.0\Efraim – programação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrai\Downloads\Efraim – programação\obj\Debug\net8.0\Efraim – programação.AssemblyInfoInputs.cache
+C:\Users\efrai\Downloads\Efraim – programação\obj\Debug\net8.0\Efraim – programação.AssemblyInfo.cs
+C:\Users\efrai\Downloads\Efraim – programação\obj\Debug\net8.0\Efraim – programação.csproj.CoreCompileInputs.cache
+C:\Users\efrai\Downloads\Efraim – programação\obj\Debug\net8.0\Efraim – programação.dll
+C:\Users\efrai\Downloads\Efraim – programação\obj\Debug\net8.0\refint\Efraim – programação.dll
+C:\Users\efrai\Downloads\Efraim – programação\obj\Debug\net8.0\Efraim – programação.pdb
+C:\Users\efrai\Downloads\Efraim – programação\obj\Debug\net8.0\Efraim – programação.genruntimeconfig.cache
+C:\Users\efrai\Downloads\Efraim – programação\obj\Debug\net8.0\ref\Efraim – programação.dll
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\bin\Debug\net8.0\Efraim – programação.exe
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\bin\Debug\net8.0\Efraim – programação.deps.json
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\bin\Debug\net8.0\Efraim – programação.runtimeconfig.json
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\bin\Debug\net8.0\Efraim – programação.dll
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\bin\Debug\net8.0\Efraim – programação.pdb
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\obj\Debug\net8.0\Efraim – programação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\obj\Debug\net8.0\Efraim – programação.AssemblyInfoInputs.cache
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\obj\Debug\net8.0\Efraim – programação.AssemblyInfo.cs
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\obj\Debug\net8.0\Efraim – programação.csproj.CoreCompileInputs.cache
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\obj\Debug\net8.0\Efraim – programação.dll
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\obj\Debug\net8.0\refint\Efraim – programação.dll
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\obj\Debug\net8.0\Efraim – programação.pdb
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\obj\Debug\net8.0\Efraim – programação.genruntimeconfig.cache
+C:\Users\efrai\Downloads\PROGRAMAÇÃO\Tiny Legend\obj\Debug\net8.0\ref\Efraim – programação.dll
