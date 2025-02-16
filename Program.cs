@@ -1148,6 +1148,7 @@ Console.WriteLine( "Lá você percebe que só tem tomate e alho. As baratas come
     } else
     {
         Console.WriteLine("Digite uma opção válida! renner.");
+          Console.WriteLine("vai descer lá pra bc");
     }
     }
 }
