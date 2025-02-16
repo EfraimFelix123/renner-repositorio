@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Efraim – programação")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e684b56fab6c23eab1c2ec2dc537abf2d84aa47a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2f57969c215ce6ecec7c7964d143451fe6c2eca")]
 [assembly: System.Reflection.AssemblyProductAttribute("Efraim – programação")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Efraim – programação")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
